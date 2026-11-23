@@ -26,3 +26,9 @@ To build a strong foundation in Python and eventually develop projects involving
 
 **Currently learning:** Python Fundamentals — Loops
 
+### Python Quiz Master
+- Multiple-choice quiz system
+- Automatic scoring
+- Percentage calculation
+- Conditional feedback
+- Uses lists, tuples, loops and conditionals
